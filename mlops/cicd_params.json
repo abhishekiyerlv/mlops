@@ -1,0 +1,13 @@
+{
+  "input_root_dir": "mlops",
+  "input_cloud": "azure",
+  "input_cicd_platform": "github_actions",
+  "input_default_branch": "https://adb-2376768479807879.19.azuredatabricks.net/explore/data/dev?o=2376768479807879",
+  "input_release_branch": "dev",
+  "cloud_specific_node_type_id": "v0.236.0",
+  "input_cli_version": "v0.236.0",
+  "test_catalog_name": "stage",
+  "staging_catalog_name": "dev",
+  "prod_catalog_name": "prod",
+  "input_docker_image": "databricksfieldeng/mlopsstacks:latest"
+}
